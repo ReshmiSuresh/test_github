@@ -4,7 +4,8 @@
 		"schema_privileges": [{
 		   "privileges": ["SELECT METADATA",
 		    			  "CREATE TEMPORARY TABLE",
-		    			  "TRIGGER"
+		    			  "TRIGGER",
+		    			  "SELECT"
 		   ]
 		}]
 		
