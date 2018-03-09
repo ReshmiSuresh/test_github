@@ -6,11 +6,7 @@
 		    			  "SELECT CDS METADATA",
 		    			  "SELECT",
 		    			  "INSERT",
-<<<<<<< HEAD
 		    			  "EXECUTE",
-=======
-		    			  "UPDATE",
->>>>>>> refs/heads/master
 		    			  "CREATE TEMPORARY TABLE",
 		    			  "TRIGGER"
 		   ]
