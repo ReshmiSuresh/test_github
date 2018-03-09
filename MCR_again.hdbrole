@@ -7,6 +7,7 @@
 		    			  "SELECT",
 		    			  "INSERT",
 		    			  "EXECUTE",
+		    			  "UPDATE",
 		    			  "CREATE TEMPORARY TABLE",
 		    			  "TRIGGER"
 		   ]
